@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to display a hierarchical datasource with master-detail ASPxGridView
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e2541/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to create nested ASPxGridView controls to display a hierarchical datasource.<br />
