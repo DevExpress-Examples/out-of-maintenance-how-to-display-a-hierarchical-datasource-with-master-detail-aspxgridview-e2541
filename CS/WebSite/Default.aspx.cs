@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
-using DevExpress.Web.ASPxGridView;
+using DevExpress.Web;
 using System.Data;
 
 public partial class _Default : System.Web.UI.Page {
